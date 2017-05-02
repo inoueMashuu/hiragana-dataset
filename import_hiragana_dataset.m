@@ -3,8 +3,8 @@
 %************************************************************************
 % 
 % This is a simple script that imports the hiragana-dataset to MATLAB,
-% and giving a labeling as well. It is important to note that it requires
-% the script to be in the same folder as the pictures.
+% with proper labeling. It is important to note that it is required to put 
+% the script in the same folder as the pictures.
 % 
 % With this script, MATLAB imports the dataset and have a label to act as a
 % guide to use in Neural Networks tools, such as nprtool.
