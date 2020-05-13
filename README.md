@@ -10,6 +10,10 @@ This dataset was made using a Python program that using Image Processing techniq
 
 This is really a small dataset, but it works for testing purposes, such as making a Neural Network to identify each different hiragana using MATLAB, for example. A simple script to import this dataset to MATLAB is available in the repository.
 
+# font-dataset
+----
+A small dataset with kana characters generated with 56 japanese fonts. This totals to about 7500 images.
+
 ----
 ### More info
 If you used this dataset in any way, please let me know, I'd be glad to know that maybe this small set of pictures helped someone. If you have any questions about this dataset, please let me know as well. 
